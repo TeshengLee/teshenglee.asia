@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Learner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+            text-align: left;
+        }
+        h2 {
+            color: #333;
+            margin-top: 40px;
+            text-align: left;
+        }
+        p {
+            color: #666;
+            margin: 10px 0;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Language Learner</h1>
+
+        <h2>English</h2>
+        <p>Welcome to <strong>Language Learner</strong>, your personal GPT-powered guide to mastering English writing. This tool is designed specifically for non-native English speakers who want to improve their writing skills through practical and interactive learning. Whether you're writing an email, an essay, or preparing for an exam, this GPT is here to support you every step of the way.</p>
+        <p><strong>Key Features:</strong></p>
+        <p>1. <strong>Multilingual Support</strong>: The GPT asks for your native language before you start, ensuring all instructions, explanations, and translations are provided in both English and your native language.</p>
+        <p>2. <strong>Translation & Grammar Check</strong>: It translates your text into fluent English, checks grammar, and provides detailed explanations of key points.</p>
+        <p>3. <strong>Bilingual Responses</strong>: The GPT answers your queries in both English and your native language, enhancing comprehension.</p>
+        <p>4. <strong>Practice Exercises with Answers</strong>: To reinforce learning, it generates exercises based on discussed topics, providing answers for self-assessment.</p>
+        <p>5. <strong>Integrated Learning</strong>: The GPT integrates English learning into real-world tasks, making language practice a natural part of your daily routine.</p>
+
+        <h2>繁體中文</h2>
+        <p>歡迎使用 <strong>Language Learner</strong>，這是您的個人GPT驅動的英語寫作指南。該工具專為非英語母語者設計，旨在通過實用且互動的學習方式幫助您提高寫作技巧。無論是寫電子郵件、作文還是準備考試，這個GPT都能全程支持您。</p>
+        <p><strong>主要功能：</strong></p>
+        <p>1. <strong>多語言支持</strong>：在開始前，GPT會詢問您的母語，確保所有指令、解釋和翻譯都以英語和您的母語提供。</p>
+        <p>2. <strong>翻譯與語法檢查</strong>：它將您的文本翻譯成流利的英語，檢查語法，並提供關鍵點的詳細解釋。</p>
+        <p>3. <strong>雙語回應</strong>：GPT以英語和您的母語回答您的問題，增強理解力。</p>
+        <p>4. <strong>帶有答案的練習題</strong>：為鞏固學習，GPT會根據討論的主題生成練習題，並提供答案供您自我評估。</p>
+        <p>5. <strong>整合式學習</strong>：GPT將英語學習融入實際任務，使語言練習成為您日常生活的一部分。</p>
+
+        <h2>日本語</h2>
+        <p><strong>Language Learner</strong>へようこそ。これは、英語のライティングスキルを向上させるためのGPT搭載の個人ガイドです。このツールは、実用的でインタラクティブな学習を通じて、英語のライティングスキルを向上させたい英語を母国語としない人々向けに特別に設計されています。メールの作成、エッセイの執筆、試験の準備など、どのような場面でもこのGPTは常にあなたをサポートします。</p>
+        <p><strong>主な機能：</strong></p>
+        <p>1. <strong>多言語サポート</strong>：開始前に、GPTはあなたの母国語を尋ね、すべての指示、説明、翻訳を英語と母国語で提供します。</p>
+        <p>2. <strong>翻訳と文法チェック</strong>：あなたの文章を流暢な英語に翻訳し、文法をチェックし、重要なポイントを詳細に説明します。</p>
+        <p>3. <strong>バイリンガル回答</strong>：GPTは英語と母国語で質問に答え、理解を深めます。</p>
+        <p>4. <strong>解答付きの練習問題</strong>：学習を強化するために、議論されたトピックに基づいて練習問題を生成し、自己評価のための解答を提供します。</p>
+        <p>5. <strong>統合型学習</strong>：GPTは英語学習を実際のタスクに組み込み、日常生活の一部として自然に言語を練習できるようにします。</p>
+    </div>
+</body>
+</html>
